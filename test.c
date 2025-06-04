@@ -1,3 +1,5 @@
+// THis is the stack Code //
+
 #include <stdio.h>
 
 #define MAX 100
